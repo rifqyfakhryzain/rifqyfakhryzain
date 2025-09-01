@@ -43,4 +43,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/rifqyfz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-⭐️ *Jangan ragu untuk melihat repositori saya dan beri bintang jika kamu su*  
+⭐️ *Jangan ragu untuk melihat repositori saya dan beri bintang jika kamu suka!*  
