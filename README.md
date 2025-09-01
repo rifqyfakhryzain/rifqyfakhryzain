@@ -42,3 +42,5 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/rifqyfz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/rifqyfz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+⭐️ *Jangan ragu untuk melihat repositori saya dan beri bintang jika kamu suka!*  
